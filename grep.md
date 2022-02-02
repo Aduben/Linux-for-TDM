@@ -5,7 +5,7 @@ grep "Brian John" employees.txt
 Brian John
 Brian Johnson
 ```
-But we need only Brus John not Brus Johnson
+But we need only Brian John not Brian Johnson
 use the -w option
 
 ```py
